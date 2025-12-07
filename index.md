@@ -4,12 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a PhD student at [Theoretical Chemistry Institute](https://tci.chem.wisc.edu/) at [University of Wisconsin-Madison](https://www.wisc.edu/), where I study on molecular dynamics and machine learning. My PhD advisor is [Prof. Xuhui Huang](https://huang.chem.wisc.edu/).
-Prior to that, I completed my BS in Chemistry at [Peking University](https://www.pku.edu.cn/), where I worked on molecular docking in [Prof. Yi Qin Gao](https://www.chem.pku.edu.cn/gaoyq/)'s group. 
+I am a Ph.D. student in the [Theoretical Chemistry Institute](https://tci.chem.wisc.edu/) at University of Wisconsin–Madison, where I conduct research at the interface of molecular dynamics and machine learning under the supervision of [Prof. Xuhui Huang](https://huang.chem.wisc.edu/). Prior to my doctoral studies, I received a B.S. in Chemistry from [Peking University](https://www.pku.edu.cn/), where I worked on molecular docking methods in the group of [Prof. Yi Qin Gao](https://www.chem.pku.edu.cn/gaoyq/).
 
-My research focuses on developing physics-informed machine learning methods to understand complex molecular systems, particularly those in living systems. I am also interested in understanding the multiscale emergent phenomena in nature.
-- **Molecular Simulation:** biomolecular dynamics, the sampling problem.
-- **Machine Learning:** deep learning on graphs, generative models.
+My research focuses on developing physics-informed AI methods for biochemical discovery, aiming to address the challenges that limit our understanding of complex molecular systems. In particular, I work on deep generative models that integrate statistical physics principles to enable molecular ensemble sampling. In parallel, I have several collaborations with experimental researchers in which I employ protein language models to facilitate protein design. 
+
+My work draws on methods and ideas from machine learning, theoretical chemistry, and bioinformatics, and I believe that such interdisciplinary integration can spark scientific breakthroughs that go beyond well-defined problems.
 
 ## News
 
