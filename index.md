@@ -12,7 +12,7 @@ My work draws on methods and ideas from machine learning, theoretical chemistry,
 
 ## News
 
-- **[Oct. 2024]** **My first manuscript**, *DSDPFlex: Flexible-Receptor Docking with GPU Acceleration* is accepted by JCIM!
+- **[Oct. 2024]** My first paper is accepted by JCIM!
 - **[Sep. 2024]** I can't give you a definite answer at the moment.
 
 
